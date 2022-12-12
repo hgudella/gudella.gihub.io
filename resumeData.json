@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Harish Gudella",
-    "occupation": "Staff Software Engineer",
+    "occupation": "Senior Software Engineer",
     "description": "With extensive experience and a proven knowledge of advanced technology and application development. I have worked with startups and Fortune 50 companies. Deeply passionate about AI (Unsupervised learning), I spend my free time in research and development to build AGI (Pet Project).",
     "image": "profilepic.jpeg",
     "bio": "Experienced software engineer. Versed in designing and developing high scale backend systems and business critical applications. Experienced in driving the technical direction of a team.\n\nI love coding, building reliable software, solving hard design problems and learning new languages and technologies.\n\nSpecialised in backend product/system development, enterprise applications development, Android, React, agile methods.",
@@ -9,10 +9,10 @@
     "email": "harishkumarg12@gmail.com",
     "phone": "650-537-5104",
     "address": {
-      "street": "655 S. Fair Oaks Ave",
-      "city": "Sunnyvale",
-      "state": "CA",
-      "zip": "94086"
+      "street": "1866 Redmond Way",
+      "city": "Redmond",
+      "state": "WA",
+      "zip": "98052"
     },
     "website": "https://hgudella.github.io/",
     "resumedownload": "Harish-Gudella-Resume.pdf",
@@ -62,9 +62,15 @@
     ],
     "work": [
       {
+        "company": "Microsoft - Redmond, WA",
+        "title": "Senior Software Engineer",
+        "years": "Jan 2022 - Present",
+        "description": ""
+      },
+      {
         "company": "Samsung Electronics America - Mountain View, CA",
         "title": "Staff Engineer",
-        "years": "Jul 2017 - Present",
+        "years": "Jul 2017 - Dec 2021",
         "description": ""
       },
       {
@@ -108,6 +114,18 @@
       {
         "name": "Java",
         "level": "90%"
+      },
+      {
+        "name": "C#",
+        "level": "80%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
+        "name": "React",
+        "level": "60%"
       },
       {
         "name": "NodeJS",
